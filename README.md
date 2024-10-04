@@ -13,8 +13,8 @@
 <div>
   <ul>
     <h3> 🟣 Fundamentos de Arquitetura de User Experience (UX)
-    <h3> 🟣 Ampliando o seu Conhecimento em UX/UI Design
+    <h3> 🟣 Ampliando o seu Conhecimento em UI/UX Design
     <h3> 🟣 Avançando com Figma e Criação de Protótipos
-    <h3> 🟣 Se tornando uma UX/UI Designer Completa
+    <h3> 🟣 Se tornando uma UI/UX Designer Completa
   </ul>
 </div>
